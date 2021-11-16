@@ -62,5 +62,6 @@
         app:layout_constraintTop_toTopOf="parent"
         custom:boardColor="#000000"
         custom:XColor="#FF0000"
-        custom:OColor="#2647FF"/>
+        custom:OColor="#2647FF"
+        custom:winningLikeColor="#00FF00"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
